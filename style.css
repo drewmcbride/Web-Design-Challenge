@@ -1,4 +1,9 @@
-.box {
+.navbar {
+  background: deepskyblue;
+}
+
+
+/* .box {
   min-height: 50px;
   padding: 5px;
   margin: 5px;
@@ -16,4 +21,4 @@
 
 .red {
   background: indianred;
-}
+} */
