@@ -2,7 +2,16 @@
   background: deepskyblue;
 }
 
+.nav {
+  color:white;
+}
 
+.h1 {
+  color:white;
+}
+.display-4 {
+  color:deepskyblue;
+}
 /* .box {
   min-height: 50px;
   padding: 5px;
@@ -19,6 +28,3 @@
   background: rebeccapurple;
 }
 
-.red {
-  background: indianred;
-} */
