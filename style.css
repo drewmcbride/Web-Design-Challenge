@@ -13,8 +13,9 @@
   color:deepskyblue;
 }
 
-.active:focus {
-  background-color: #EAB126;
+.nav-link:focus, .nav-link:hover {
+  color:white;
+  background-color: #617077;
 }
 /* .box {
   min-height: 50px;
