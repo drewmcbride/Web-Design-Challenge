@@ -6,6 +6,11 @@
   color:white;
 }
 
+.navbar-nav { 
+  margin-left: 82%; 
+  margin-right:auto;
+} 
+
 .h1 {
   color:white;
 }
